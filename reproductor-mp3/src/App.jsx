@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>Reproductor mp3</h1>
-      <h2>Este es una app</h2>
+
 
     </>
   )
