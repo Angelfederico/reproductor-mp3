@@ -1,0 +1,26 @@
+{
+  "name": "reproductor-mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelfederico/reproductor-mp3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelfederico/reproductor-mp3/issues"
+  },
+  "homepage": "https://github.com/Angelfederico/reproductor-mp3#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^4.1.1"
+  }
+}
